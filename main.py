@@ -1,0 +1,23 @@
+"""
+main.py
+-------
+Point d'entrée principal du projet AI Pathfinder.
+Lance l'interface graphique.
+"""
+
+import sys
+import os
+
+# Ajouter le dossier racine au chemin Python
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from gui.app import App
+
+
+def main():
+    app = App()
+    app.mainloop()
+
+
+if __name__ == '__main__':
+    main()

@@ -2,7 +2,7 @@
 
 Visualiseur de résolution de problèmes par graphes d'états. Tu choisis un problème, un algo, et tu vois les étapes de la solution.
 
-Fait dans le cadre d'un projet de cours sur les concepts d'IA (L3), puis refait proprement après.
+Fait dans le cadre d'un projet de cours sur les concepts d'IA (L2), puis refait proprement après.
 
 ---
 
